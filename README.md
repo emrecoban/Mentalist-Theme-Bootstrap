@@ -1,5 +1,6 @@
 # Mentalist Bootstrap Theme
-The theme built with Bootstrap v4.5.3. 
+Bootstrap theme for psychologists. The theme built with Bootstrap v4.5.3. 
+
 [Preview](https://rawcdn.githack.com/emrecoban/Mentalist-Theme-Bootstrap/e44e8e3b8870ac892b0f8f5bcc5cc01dd01eb88d/index.html)
 ## Screenshots
 ### Home Pages
